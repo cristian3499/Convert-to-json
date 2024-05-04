@@ -1,0 +1,42 @@
+[
+    {
+        "nombre": "producto1",
+        "descripcion": "esta es la descripcion del producto 1",
+        "precio": 320,
+        "categoria": "gel",
+        "stock": 10,
+        "imagenurl": "https://novamedical.mx/cdn/shop/products/JLEA135GRSCO-390-1_2048x.jpg?v=1644458421"
+    },
+    {
+        "nombre": "producto2",
+        "descripcion": "esta es la descripcion del producto 2",
+        "precio": 450,
+        "categoria": "gel 2",
+        "stock": 20,
+        "imagenurl": "https://novamedical.mx/cdn/shop/products/JLEA135GRSCO-390-1_2048x.jpg?v=1644458421"
+    },
+    {
+        "nombre": "producto3",
+        "descripcion": "esta es la descripcion del proucto 3",
+        "precio": 110,
+        "categoria": "gel 3",
+        "stock": 30,
+        "imagenurl": "https://novamedical.mx/cdn/shop/products/JLEA135GRSCO-390-1_2048x.jpg?v=1644458421"
+    },
+    {
+        "nombre": "producto4",
+        "descripcion": "esta es la descripcion del proucto 4",
+        "precio": 58,
+        "categoria": "gel 4",
+        "stock": 40,
+        "imagenurl": "https://novamedical.mx/cdn/shop/products/JLEA135GRSCO-390-1_2048x.jpg?v=1644458421"
+    },
+    {
+        "nombre": "producto5",
+        "descripcion": "esta es la descripcion del proucto 5",
+        "precio": 120,
+        "categoria": "gel 5",
+        "stock": 50,
+        "imagenurl": "https://novamedical.mx/cdn/shop/products/JLEA135GRSCO-390-1_2048x.jpg?v=1644458421"
+    }
+]
